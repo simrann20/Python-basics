@@ -1,2 +1,2 @@
 # Python-basics
-This repo contains the basics of python3
+This repo contains the basics of python3x
